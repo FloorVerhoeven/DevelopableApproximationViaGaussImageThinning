@@ -1,4 +1,4 @@
-# GaussThinning
+# Developable Approximation via Gauss Image Thinning
 
 This folder contains the code related to the paper "Developable Approximation via Gauss Image Thinning" by Alexandre Binninger, Floor Verhoeven, Philipp Herholz and Olga Sorkine-Hornung. 
 
