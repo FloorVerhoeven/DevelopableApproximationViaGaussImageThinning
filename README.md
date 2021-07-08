@@ -1,14 +1,14 @@
 # GaussThinning
 
-This folder contains the code related to the Paper "Developable Approximation via Gauss Image Thinning". 
+This folder contains the code related to the paper "Developable Approximation via Gauss Image Thinning" by Alexandre Binninger, Floor Verhoeven, Philipp Herholz and Olga Sorkine-Hornung. 
 
 ## Compilation
 
-The only dependencies are `libigl` and `Eigen`. A Makefile is provided. Type `make` to compile. Please make sure you are compiling with g++.
+The only dependencies are `libigl` and `Eigen`. A Makefile is provided, issue `make` to compile. Please make sure you are compiling with g++.
 
 ## Running
 
-The executable is `GaussThinning`. The main function can be launched without entering any parameter. In this case, the program runs on a bunch of default examples with optimal parameters.
+The executable is `GaussThinning` (or `GaussThinningParallel`). The main function can be launched without entering any parameter. In this case, the program runs on a bunch of default examples with optimal parameters.
 
 To try the code on another mesh, the arguments are:
 
